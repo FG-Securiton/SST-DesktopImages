@@ -1,0 +1,27 @@
+Securiton AG – Mobiler Objektschutz
+20 generierte Bildentwürfe, 10 Motive in Light und Dark.
+Logo und Schrift sind generiert; Originaltreue ist nicht gewährleistet.
+Produktdarstellungen sind symbolisch, keine verbindlichen Hardwareabbildungen.
+Offizielle Produktübersicht: https://www.securiton.ch/de/mobiler-objektschutz
+
+Originalauflösungen, ohne Hochskalierung:
+Light/01_Kiosk_Light.png: 1672 x 941
+Dark/01_Kiosk_Dark.png: 1672 x 941
+Light/02_Lockscreen_SecuriSiteTec_Light.png: 1672 x 941
+Dark/02_Lockscreen_SecuriSiteTec_Dark.png: 1672 x 941
+Light/03_Loge_Profilbild_Light.png: 1254 x 1254
+Dark/03_Loge_Profilbild_Dark.png: 1254 x 1254
+Light/04_SecuriDrone_Industrie_Light.png: 1672 x 941
+Dark/04_SecuriDrone_Industrie_Dark.png: 1672 x 941
+Light/05_SecuriRobot_Areal_Light.png: 1672 x 941
+Dark/05_SecuriRobot_Areal_Dark.png: 1672 x 941
+Light/06_SecuriWall_Perimeter_Light.png: 1672 x 941
+Dark/06_SecuriWall_Perimeter_Dark.png: 1672 x 941
+Light/07_SecuriDrone_Event_Light.png: 1672 x 941
+Dark/07_SecuriDrone_Event_Dark.png: 1672 x 941
+Light/08_SecuriRobot_Indoor_Light.png: 1672 x 941
+Dark/08_SecuriRobot_Indoor_Dark.png: 1672 x 941
+Light/09_SecuriSiteTec_Zutritt_Light.png: 1672 x 941
+Dark/09_SecuriSiteTec_Zutritt_Dark.png: 1672 x 941
+Light/10_SecuriWall_Modular_Light.png: 1672 x 941
+Dark/10_SecuriWall_Modular_Dark.png: 1672 x 941
